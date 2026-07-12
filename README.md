@@ -15,27 +15,52 @@ I am a multi-disciplinary professional and open knowledge advocate based in Cox'
 
 ---
 
-### 🛠️ Languages, Tools & Interests
-Here are some of the tools, technologies, and platforms I work with:
+### 🛠️ Languages, Tools & Skills
 
+Here is a comprehensive look at the skills and tools I work with:
+
+#### 💻 Web Development & Design
 <p align="left">
-  <!-- Platforms & Organizations -->
-  <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia" />
-  <img src="https://img.shields.io/badge/Boipedia-f59e0b?style=for-the-badge&logoColor=white" alt="Boipedia" />
-  
-  <!-- Web Tech -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  
-  <!-- Design & Photography -->
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+- **CMS & Frameworks:** WordPress, Blogger, Core PHP Development
+- **Databases:** MySQL, Google Firebase Database, Super Database
+- **UI/UX Design:** Figma, UI/UX Design & Prototyping
+
+#### 🛡️ Cybersecurity & Malware Research
+- **Core Security:** Ethical Hacking, Social Engineering, Network Security Fundamentals
+- **Analysis:** Malware Analysis, C2 Server Analysis, Threat Intelligence
+
+#### 🌐 Wiki & Open Knowledge Work
+<p align="left">
+  <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia" />
+  <img src="https://img.shields.io/badge/Boipedia-f59e0b?style=for-the-badge&logoColor=white" alt="Boipedia" />
+</p>
+
+- **Contributions:** Wikipedia Editor, Boipedia (Founding Contributor)
+- **Projects:** Project Korikath (Active Member), Wiki Network Editing & Development, Open Knowledge Content Contribution
+
+#### 🎨 Creative Media & SEO
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+</p>
+
+- **Photo & Video Editing:** Adobe Lightroom, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, CapCut
+- **SEO & Webmaster Tools:** Google Search Console, Bing Webmaster Tools, Yandex Webmaster, Baidu Webmaster Tools, Naver Search Advisor, Local Business SEO
 
 ---
 
