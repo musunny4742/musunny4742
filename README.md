@@ -42,8 +42,8 @@ Here are some of the tools, technologies, and platforms I work with:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=musunny4742&show_icons=true&theme=dark&hide_border=true" alt="Sunny's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musunny4742&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=musunny4742&show_icons=true&theme=dark&hide_border=true" alt="Sunny's GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=musunny4742&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
